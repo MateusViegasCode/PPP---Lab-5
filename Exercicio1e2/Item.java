@@ -1,6 +1,5 @@
 package Exercicio1e2;
 
-// --- Componentes do Carrinho ---
 class Item {
     private String nome;
     private double preco;
